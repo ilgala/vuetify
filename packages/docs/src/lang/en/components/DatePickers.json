@@ -42,7 +42,7 @@
     },
     "date-multiple": {
       "desc": "Date picker can now select multiple dates with the `multiple` prop. If using `multiple` then date picker expects its model to be an array.",
-      "header": "### Date pickers - Mutiple"
+      "header": "### Date pickers - Multiple"
     },
     "date-picker-date": {
       "desc": "You can watch the `pickerDate` which is the displayed month/year (depending on the picker type and active view) to perform some action when it changes.",
